@@ -1,2 +1,2 @@
 # StratScoreCMH
-CMH Gene-based Collapsing using Stratification Score 
+Gene-based Collapsing Analysis using Cochran–Mantel–Haenszel test with Stratification Score Clustering
